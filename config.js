@@ -32,8 +32,8 @@ var config = {
     desc: {
         turn_on: "Start?",
         play: "Some Music?",
-        bannar_coming: "Some Colour?",
-        balloons_flying: "Some more?",
+        bannar_coming: "Decoration?",
+        balloons_flying: "Balloons?",
         cake_fadein: "Cake？",
         light_candle: "Candle？",
         wish_message: "Happy Birthday",
