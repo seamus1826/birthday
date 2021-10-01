@@ -3,9 +3,9 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "这是",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "送给",  // 同上...
-        "全世界",
+        "这是送给",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "全世界",  // 同上...
+        "最好",
         "最漂亮",
         "最有魅力",
         "声音最甜美的",
@@ -30,13 +30,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Start?",
-        play: "Some Music?",
-        bannar_coming: "Decoration?",
-        balloons_flying: "Balloons?",
-        cake_fadein: "Cake？",
-        light_candle: "Candle？",
-        wish_message: "Happy Birthday",
-        story: "A SPECIAL MESSAGE FOR YOU",
+        turn_on: "开始",
+        play: "来点音乐",
+        bannar_coming: "装饰？",
+        balloons_flying: "汽球？",
+        cake_fadein: "小蛋糕？",
+        light_candle: "蜡烛呢？",
+        wish_message: "生日快乐",
+        story: "结束了？",
     }
 };
